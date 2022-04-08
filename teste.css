@@ -1,0 +1,86 @@
+.cremefundo{
+background-color: #FFF1DB;
+height: 2000px;
+width: 1200px;
+margin-left: 50%;
+left: -600px;
+font-family: monospace;
+position: absolute;
+}
+#monof{
+font-family: monospace;
+text-align: center;
+font-size: 70px;
+}
+#monoff{
+font-family: monospace;
+text-align: center;
+}
+#monofff{
+font-family: monospace;
+text-align: center;
+font-size: 20px;
+}
+hr{
+color: solid black;
+height: 20px;
+}
+#supra{
+height: 600px;
+width: 1100px;
+left: 50%;
+transform: translate(-50%);
+top: 12%;
+position: absolute;
+}
+#fp1{
+font-family: monospace;
+top: 43%;
+position: absolute;
+text-align: center;
+}
+#fp2{
+font-family: monospace;
+top: 85%;
+position: absolute;
+text-align: center;
+left: 50%;
+transform: translate(-50%);
+}
+#supra2{
+height: 600px;
+width: 1100px;
+left: 50%;
+transform: translate(-50%);
+position: absolute;
+bottom: 19%;
+}
+a.pg2{
+top: 97%;
+left: 50%;
+transform: translate(-50%);
+position: absolute;
+}
+input#menor{
+font-size: 10px;
+left: 21%;
+position: absolute;
+height: 25px;
+}
+.borda{
+height: 2000px;
+width: 1202px;
+left: 50%;
+transform: translate(-50%);
+position: absolute;
+border: 1px solid black;
+}
+#caixinha{
+left: 2%;
+position: absolute;
+}
+input#menorr{
+left: 32%;
+height: 25px;
+position: absolute;
+}
