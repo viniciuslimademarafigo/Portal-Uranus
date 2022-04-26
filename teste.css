@@ -30,18 +30,18 @@ height: 600px;
 width: 1100px;
 left: 50%;
 transform: translate(-50%);
-top: 12%;
+top: 16%;
 position: absolute;
 }
 #fp1{
 font-family: monospace;
-top: 43%;
+top: 47%;
 position: absolute;
 text-align: center;
 }
 #fp2{
 font-family: monospace;
-top: 85%;
+top: 86%;
 position: absolute;
 text-align: center;
 left: 50%;
@@ -53,7 +53,7 @@ width: 1100px;
 left: 50%;
 transform: translate(-50%);
 position: absolute;
-bottom: 19%;
+bottom: 15%;
 }
 a.pg2{
 top: 97%;
@@ -83,4 +83,30 @@ input#menorr{
 left: 32%;
 height: 25px;
 position: absolute;
+}
+ul li#horizontal{
+display:inline-block;
+border:1px solid black;
+width:100px;
+height:30px;
+text-align:center;
+background-color:#EED7B1;
+float:left;
+}
+#centro{
+left:50%;
+transform:translate(-50%);
+position:absolute;
+}
+ul li#horizontal:hover{
+display:inline-block;
+border:1px solid black;
+width:150px;
+background-color:#B4B2AE;
+}
+#centrob{
+bottom: 3%;
+left:50%;
+transform:translate(-50%);
+position:absolute;
 }
